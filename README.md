@@ -32,7 +32,7 @@ Quick summaries on the books i've read, mental hooks, and takeaways, usually 5 b
 > * test 3
 > * test 4
 > * test 5
-> ### The Price of Tomorrow
+### The Price of Tomorrow
 *Why Deflation is the Key to an Abundant Future, By Jeff Booth, Finished 2021 July*
 > About: test
 > 
