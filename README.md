@@ -42,3 +42,33 @@ Quick summaries on the books i've read, mental hooks, and takeaways, usually 5 b
 > * test 3
 > * test 4
 > * test 5
+### Layered Money
+*From Gold and Dollars to Bitcoin and Central Bank Digital Currencies, By Nik Bhatia, Finished 2021 June*
+> About: test
+> 
+> Takeaway: test
+> * test 1
+> * test 2
+> * test 3
+> * test 4
+> * test 5
+### The Sovereign Individual
+*Mastering the Transition to the Information Age, By James Dale Davidson and Lord William Rees-Mogg, Finished 2021 July*
+> About: test
+> 
+> Takeaway: test
+> * test 1
+> * test 2
+> * test 3
+> * test 4
+> * test 5
+### Collusion
+*How Central Bankers Rigged the World, By Nomi Prins, Finished 2021 April*
+> About: test
+> 
+> Takeaway: test
+> * test 1
+> * test 2
+> * test 3
+> * test 4
+> * test 5
