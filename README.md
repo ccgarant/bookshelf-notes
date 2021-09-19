@@ -1,14 +1,18 @@
-# bookshelf-notes
-Quick summaries on the books i've read, mental hooks, and takeaways, usually 5 bullets long.
+# Bookshelf Notes
+Distilled summaries on the books i've read, what they are about, mental hooks, and takeaways.
 
-## 2021
-### The Blocksize War
-*By Jonathan Bier, Finished: In Progress*
+* Curiosities: How do you just print money? Has this happened before?  What is the history of money?  Does bitcoin make sense?  Will it succeed, what are it's weaknesses?
+* Interests: Austrian Economics, Bitcoin, Cryptocurrencies, History with a money focus, The US Constitution, Nation State Dynamics, How Emipres and Nation rise and fall, and some coding.
 
-### The Anatomy of the State
+# 2021
+
+## The Blocksize War By Jonathan Bier
+Finished: In Progress*
+
+## The Anatomy of the State
 *By Murray N. Rothbard, Finished: 2021 Aug*
 
-### A History of Money and Banking in the United States -- RECOMMENDED
+## A History of Money and Banking in the United States
 *The Colonial Era to World War II, By Murray N. Rothbard, Finished 2021 Sept*
 
 About: Money in the America from metal coins to paper fiat and the economic and political impacts.  A must read for anyone to understand fiat paper debt/inflation patterns throughout American history, and there are some good ones!
@@ -29,23 +33,23 @@ Takeaway: Sound hard money (gold, bitcoin) and free markets are essential for a 
 * The Great Depression, Federal Reserve, and Hoover Administration 1931:
 * The New Deal: banning gold and confiscating
 
-### Unscripted
+## Unscripted
 *Life, Liberty, and the Pursuit of Entrepreneurship, By MJ DeMarco, Finished 2021 August*
 
-### The Price of Tomorrow
+## The Price of Tomorrow
 *Why Deflation is the Key to an Abundant Future, By Jeff Booth, Finished 2021 July*
 
-### Layered Money
+## Layered Money
 *From Gold and Dollars to Bitcoin and Central Bank Digital Currencies, By Nik Bhatia, Finished 2021 June*
 
-### The Sovereign Individual
+## The Sovereign Individual
 *Mastering the Transition to the Information Age, By James Dale Davidson and Lord William Rees-Mogg, Finished 2021 July*
 
-### Collusion
+## Collusion
 *How Central Bankers Rigged the World, By Nomi Prins, Finished 2021 May*
 
-### Reminiscences of a Stock Operator
+## Reminiscences of a Stock Operator
 *By Edwin Lefevre, Finished 2021 April*
 
-### Fed Up
+## Fed Up
 *An Insider's Take on Why the Federal Reserve is Bad for America, By Danielle DiMartino Booth, Finished 2021 March*
