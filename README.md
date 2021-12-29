@@ -11,6 +11,33 @@ Finished: In Progress*
 
 ## The Anatomy of the State
 *By Murray N. Rothbard, Finished: 2021 Aug*
+> "The greatest danger to the State is independent intellectual criticism" - Murray N. Rothbard
+### test
+
+#### test
+
+##### test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## A History of Money and Banking in the United States
 *The Colonial Era to World War II, By Murray N. Rothbard, Finished 2021 Sept*
