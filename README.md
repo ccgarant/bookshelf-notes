@@ -4,39 +4,41 @@ Distilled summaries on the books i've read, what they are about, mental hooks, a
 * Curiosities: How do you just print money? Has this happened before?  What is the history of money?  Does bitcoin make sense?  Will it succeed, what are it's weaknesses?
 * Interests: Austrian Economics, Bitcoin, Cryptocurrencies, History with a money focus, The US Constitution, Nation State Dynamics, How Emipres and Nation rise and fall, and some coding.
 
+
+
+
+
+# 2022
+## The Fiat Standard
+*The Debt Slavery Alternative to Human Civilization, by Saifedean Ammous, Finished Jan 2022*
+
+* Introduction: People don't seem to grasp since it is a generation removed, that the US Dollar, and all currencies, are in a great fiat (paper) money experiment, not tied to hard money.  It is relatively new, only 50 years old!  Bitcoin, as of writing, is 13 years old now!
+    > "This year marks the fiftieth anniversary of the U.S. government closing the gold exchange window and putting the world on a fiat monetary system. [pg.3]"
+* With Fiat Money, you have to save twice, once when you earn it, and second to keep it working to accrue interest against devaluation. 
+* Fiat Mining: Taking on a loan or debt is the fiat way of creating new money, and economic stimulation.  A mortgage loan creates future money from thin air.
+    > "Since lending is effectively the minig of new fiat tokens, there is a strong economic incentive to issue debt.  Financial institutions stand to profit from creating new money, and a lending license is highly sought after. [pg.44]"
+* Fiat Debt: With fiat, saving money is impossible because of the devaluation from debasement (money printing).  This raises your time preference from long term thinking, valuing the future and building for the future, to short term thinking, spending your money now.
+    > "When money is hard and can appreciate, individuals are likely to be very discerning about what they spend it on, as the opportunity cost appreciates over time.  Why buy a shoddy table, shirt, or home when you can wait a little while and watch your savings appreciate to allow you to buy a better one.  But with cash burning a hole in their pockets, consumers are less picky about the quality of what they buy.  The shoddy table, home, or shirt becomes a reasonable proposition when the alternative is to hold money that depreciates over time, allowing you to aquire an even lower quality product.  Even shoddy tables will hold their value better than a depreciating fiat currency. [pg. 103]"
+* What is Fiat Good For?: Salability Accross Space (gold is hard to transport, and thus ledger keeping and final settlement time is slower)
+    > "Carl Menger defines salability as the degree to which a good can be brought to market without significant loss in market price.  A highly salable good is one with significant market depth and liquidity, making it possible for the holder to obtain the prevailing market price whenever they want to sell it [pg.74-75]."
+    > "...if gold had high salability across space, it would not need government to ensure its monetary rules. [pg.80]"
+* Fiat Life: The terms are now part of my daily vocabulary, and change the way you think
+    * Fiat Food, Fiat Science, Fiat Anything
+* Fiat Cost-Benefit Analysis: Fiat's main benefit is savings on moving physical gold around.  Also, fiat's killer app is unlimited government finance. [pg.226]
+* Bitcoin is the separation of money and state.
+* Bitcoin enables savings, and does not incentivize indebtedness.
+* Bitcion is salable across space and time, whereas fiat is just space, and gold is just time.
+
+
 # 2021
 
 ## The Blocksize War By Jonathan Bier
-Finished: In Progress*
+Finished: Nov 2021
+* History of the bitcoin blocksize wars from 2015 to 2017, which was way more intense and significant than I appreciated.  It also covers signficant history and details about hardforks, miners, and nodes voting.  A must read for any bitcoiner.  Glad that software battle is behind us.
 
 ## The Anatomy of the State
 *By Murray N. Rothbard, Finished: 2021 Aug*
 > "The greatest danger to the State is independent intellectual criticism" - Murray N. Rothbard
-### test
-
-#### test
-
-##### test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## A History of Money and Banking in the United States
